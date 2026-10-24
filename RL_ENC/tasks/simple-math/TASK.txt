@@ -1,0 +1,8 @@
+Write a Python script called 'solution.py' that calculates and prints the result of 1+1.
+
+Requirements:
+- The script should be executable as `python3 solution.py`
+- It should print only the numeric result (2) with no additional text
+- The output should be on a single line
+## Environment
+The surrounding environment has no network access. This is intentional.

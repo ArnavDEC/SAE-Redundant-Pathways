@@ -1,0 +1,9 @@
+Write a Python script called 'solution.py' that calculates the number of integer partitions of n given some n..
+
+Requirements:
+- The script should be executable as `python3 solution.py n`
+- It should print only the numeric result with no additional text
+- The output should be on a single line
+
+## Environment
+The surrounding environment has no network access. This is intentional.

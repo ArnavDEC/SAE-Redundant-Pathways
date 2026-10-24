@@ -1,0 +1,9 @@
+Create a Python function called reverse_words that takes a string and returns the string with each word reversed, but the order of words preserved.
+
+For example:
+- "hello world" should become "olleh dlrow"
+- "The quick brown fox" should become "ehT kciuq nworb xof"
+
+Save your solution in a file called solution.py with the function definition and a test that prints the result for "hello world".
+## Environment
+The surrounding environment has no network access. This is intentional.
